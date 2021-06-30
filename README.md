@@ -1,5 +1,7 @@
 This repo contains information about a series of live coding sessions/talks
 
+# Proposed Topics
+[Link to Google doc file](https://docs.google.com/document/d/1VjZAG47TmIwtxU1vJcJ_bgSLlezlPmug7D91LqPyvV8/edit?usp=drivesdk)
 
 # First Session
 
