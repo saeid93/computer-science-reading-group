@@ -14,5 +14,13 @@ Speaker: Ali Akbar Saleh Bigdeli
 [Link to the recordings](https://drive.google.com/file/d/1M9ds1aOOQ3z7E3N7zUJ_TtRRf9SWBlR-/view?usp=sharing)
 
 
-# Next Session
-Data: 11/07/2021
+# Second Session
+
+Data: 18/07/2021
+
+Speaker: roundtable
+[link to the slides of design patterns sessions](https://docs.google.com/presentation/d/1J6Zt1aHPt-5z2TvE0ljeDkqdm_4xdtxVrlmthwJJDjs/edit?usp=sharing)
+
+# Third Session
+
+Data: 25/07/2021
