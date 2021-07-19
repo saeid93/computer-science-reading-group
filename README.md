@@ -30,12 +30,12 @@ Review of adapter pattern with code
 [Head first design pattern](https://www.amazon.co.uk/Head-First-Design-Patterns-Object-Oriented/dp/149207800X) \
 [Python Design patterns](https://python-patterns.guide/) \
 [Wikipedia page of each pattern](https://en.wikipedia.org/wiki/Software_design_pattern) \
-[Christopher Okhravi YouTube channel](https://www.youtube.com/channel/UCbF-4yQQAWw-UnuCd2Azfzg) \ 
+[Christopher Okhravi YouTube channel](https://www.youtube.com/channel/UCbF-4yQQAWw-UnuCd2Azfzg) 
 
 **session resources**:
 
 [link to the slides of design patterns sessions](https://docs.google.com/presentation/d/1J6Zt1aHPt-5z2TvE0ljeDkqdm_4xdtxVrlmthwJJDjs/edit?usp=sharing) \
-[link to the recordings](https://drive.google.com/file/d/18XuRxRHnR3t_cclJwkTOjbM1MMOwn1XI/view?usp=sharing) \
+[link to the recordings](https://drive.google.com/file/d/18XuRxRHnR3t_cclJwkTOjbM1MMOwn1XI/view?usp=sharing)
 
 # Third Session
 
