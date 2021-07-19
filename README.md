@@ -36,6 +36,7 @@ Review of adapter pattern with code
 
 [link to the slides of design patterns sessions](https://docs.google.com/presentation/d/1J6Zt1aHPt-5z2TvE0ljeDkqdm_4xdtxVrlmthwJJDjs/edit?usp=sharing) \
 [link to the recordings](https://drive.google.com/file/d/18XuRxRHnR3t_cclJwkTOjbM1MMOwn1XI/view?usp=sharing)
+[link to Aliakbar notes](https://drive.google.com/file/d/1zH54A_DLZgyGn49t-o2ccrPau32uLKci/view?usp=sharing)
 
 # Third Session
 
