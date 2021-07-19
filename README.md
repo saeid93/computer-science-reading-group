@@ -44,4 +44,4 @@ Data: 25/07/2021
 
 Agenda: Bridge and decorator patterns
 
-**Readings**: relevant chapters of Bridge and Decorator from the reading resources
+**Readings**: relevant chapters of Bridge and Decorator patterns from the reading resources
