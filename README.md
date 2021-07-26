@@ -64,7 +64,7 @@ Strategy and Bridge pattern
 [link to the recordings](https://drive.google.com/file/d/1iIBSgRmMmnJ6vJCWjCHW_5w4W6pasA5b/view?usp=sharing) \
 [link to Aliakbar notes](https://drive.google.com/file/d/1HMcnn3QlZn_M2g6CEDJ_UcCQKJTy-_Wm/view?usp=sharing)
 
-# Forth Session
+# Forth Session (upcoming)
 
 **Data**: 8/08/2021
 
