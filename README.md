@@ -1,13 +1,21 @@
-This repo contains information about a series of live coding sessions/talks
+This repo contains information about a series of live coding sessions/talks\
+Sessoins are in Farsi/Persian\
+Interested in joining? send me an email s.ghafouri@qmul.ac.uk
 
 # Proposed Topics
+
+Add your proposed topic for future sessions to this list\
 [Link to Google doc file](https://docs.google.com/document/d/1VjZAG47TmIwtxU1vJcJ_bgSLlezlPmug7D91LqPyvV8/edit?usp=drivesdk)
 
 # First Session
 
 **Date**: 27/06/2021
 
-**Speaker**: Ali Akbar Saleh Bigdeli
+**Speaker(s)**: Ali Akbar Saleh Bigdeli
+
+**Agenda**:
+
+qulatgir library
 
 [Link to the repository](https://github.com/boof-tech/qalatgir)
 
@@ -18,7 +26,9 @@ This repo contains information about a series of live coding sessions/talks
 
 **Data**: 18/07/2021
 
-**Speaker**: roundtable
+**Speaker(s)**: roundtable, chairs: Aliakbar Saleh and Saeid Ghafouri
+
+**Agenda**:
 
 Introduction to the concept of design patterns
 
@@ -40,8 +50,24 @@ Review of adapter pattern with code
 
 # Third Session
 
-Data: 25/07/2021
+**Data**: 25/07/2021
 
-Agenda: Bridge and decorator patterns
+**Speaker(s)**: roundtable, chairs: Aliakbar Saleh and Saeid Ghafouri
 
-**Readings**: relevant chapters of Bridge and Decorator patterns from the reading resources
+**Agenda**:
+
+Strategy and Bridge pattern
+
+**session resources**:
+
+[link to the slides of design patterns sessions](https://docs.google.com/presentation/d/1J6Zt1aHPt-5z2TvE0ljeDkqdm_4xdtxVrlmthwJJDjs/edit?usp=sharing) \
+[link to the recordings](https://drive.google.com/file/d/1iIBSgRmMmnJ6vJCWjCHW_5w4W6pasA5b/view?usp=sharing) \
+[link to Aliakbar notes](https://drive.google.com/file/d/1HMcnn3QlZn_M2g6CEDJ_UcCQKJTy-_Wm/view?usp=sharing)
+
+# Forth Session
+
+**Data**: 8/08/2021
+
+**Agenda**: Decorator Pattern and SOLID priciple
+
+**Readings**: relevant chapters of decorator pattern from the design pattern series resources
