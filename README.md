@@ -74,7 +74,7 @@ Strategy and Bridge pattern
 
 **session resources**:
 
-[link to recordings](https://drive.google.com/file/d/1MG8YvOpQ32HX6jZJ_yLMtPPFDOUV_171/view?usp=sharing)
+[link to recordings](https://drive.google.com/file/d/1MG8YvOpQ32HX6jZJ_yLMtPPFDOUV_171/view?usp=sharing) \
 [source codes](4th-session-codes)
 
 # 5th Session
@@ -86,7 +86,8 @@ Strategy and Bridge pattern
 **Readings**: 4th sesssion
 
 **session resources**:
-[link to recordings](https://drive.google.com/file/d/1AA_prqxBYO2a3PwVNA_loAZfUddAbFR2/view?usp=sharing)
+
+[link to recordings](https://drive.google.com/file/d/1AA_prqxBYO2a3PwVNA_loAZfUddAbFR2/view?usp=sharing) \
 [source codes](5th-session-codes)
 
 # 6th Session
