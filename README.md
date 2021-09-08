@@ -1,4 +1,4 @@
-This repo contains information about a series of live coding sessions/talks\
+This repo contains information about a series of sessions about broad topics in computer science
 Sessoins are in Farsi/Persian\
 Interested in joining? send me an email s.ghafouri@qmul.ac.uk
 
@@ -11,8 +11,6 @@ Add your proposed topic for future sessions to this list\
 
 **Date**: 27/06/2021
 
-**Speaker(s)**: Ali Akbar Saleh Bigdeli
-
 **Agenda**:
 
 qulatgir library
@@ -21,18 +19,19 @@ qulatgir library
 
 [Link to the recordings](https://drive.google.com/file/d/1M9ds1aOOQ3z7E3N7zUJ_TtRRf9SWBlR-/view?usp=sharing)
 
+**Speaker(s)**: Ali Akbar Saleh
 
 # 2nd Session
 
-**Data**: 18/07/2021
-
-**Speaker(s)**: roundtable, chairs: Aliakbar Saleh and Saeid Ghafouri
+**Date**: 18/07/2021
 
 **Agenda**:
 
 Introduction to the concept of design patterns
 
 Review of adapter pattern with code
+
+**Speaker(s)**: roundtable, chairs: Aliakbar Saleh and Saeid Ghafouri
 
 **reading resources of the design patterns series**:
 
@@ -50,13 +49,13 @@ Review of adapter pattern with code
 
 # 3rd Session
 
-**Data**: 25/07/2021
-
-**Speaker(s)**: roundtable, chairs: Aliakbar Saleh and Saeid Ghafouri
+**Date**: 25/07/2021
 
 **Agenda**:
 
 Strategy and Bridge pattern
+
+**Speaker(s)**: roundtable, chairs: Aliakbar Saleh and Saeid Ghafouri
 
 **session resources**:
 
@@ -66,9 +65,11 @@ Strategy and Bridge pattern
 
 # 4th Session
 
-**Data**: 8/08/2021
+**Date**: 8/08/2021
 
 **Agenda**: Deep Dive into Python Decorators (Part 1)
+
+**Speaker(s)**: Aliakbar Saleh
 
 **Readings**: basic understaing of Python decorators
 
@@ -79,9 +80,11 @@ Strategy and Bridge pattern
 
 # 5th Session
 
-**Data**: 23/08/2021
+**Date**: 4/09/2021
 
 **Agenda**: Deep Dive into Python Decorators (Part 2)
+
+**Speaker(s)**: Aliakbar Saleh
 
 **Readings**: 4th sesssion
 
@@ -92,11 +95,48 @@ Strategy and Bridge pattern
 
 # 6th Session
 
-**Data**: TBA
+**Date**: 11/09/2021
 
 **Agenda**: Deep Dive into Python Decorators (Part 3)
 
+**Speaker(s)**: Aliakbar Saleh
+
 **Readings**: 4th and 5th sesssion
+
+# 7th Session
+
+**Date**: 26/09/2021
+
+**Agenda**: Graalvm introduction
+
+**Speaker(s)**: Amir Khordadi
+
+**Readings**: [graalvm documentation](https://www.graalvm.org/)
+
+# 9th Session
+
+**Date**: 10/10/2021
+
+**Agenda**: My journey in contributing to Linux kernel
+
+**Readings**: [link to the accepted commit](https://lnkd.in/eVpAEwBS)
+
+# 10th Session
+
+**Date**: 24/10/2021
+
+**Agenda**: Docker containers
+
+**Readings**: [Docker documentation](https://docs.docker.com/)
+
+# 11th Session
+
+**Date**: 7/11/2021
+
+**Agenda**: Bert model
+
+**Readings**: [Bert model paper](https://arxiv.org/abs/1810.04805)
+
 
 # Continue the Design Patterns series
 
