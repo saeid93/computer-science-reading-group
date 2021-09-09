@@ -155,7 +155,7 @@ Strategy and Bridge pattern
 
 # 13th Session
 
-**Date**: 28/11/2021
+**Date**: 5/12/2021
 
 **Agenda**: Intro to front-end development
 
