@@ -119,6 +119,8 @@ Strategy and Bridge pattern
 
 **Agenda**: My journey in contributing to Linux kernel
 
+**Speaker(s)**: Jafaar Akhondali
+
 **Readings**: [link to the accepted commit](https://lnkd.in/eVpAEwBS)
 
 # 10th Session
@@ -148,6 +150,18 @@ Strategy and Bridge pattern
 **Agenda**: Computational Social Science Intro
 
 **Speaker(s)**: Vahid Ghafouri
+
+**Readings**: 
+
+# Continue the Design Patterns series
+
+# 13th Session
+
+**Date**: 28/11/2021
+
+**Agenda**: Intro to front-end development
+
+**Speaker(s)**: Mohammadamir Ahmadi
 
 **Readings**: 
 
