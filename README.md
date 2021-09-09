@@ -163,6 +163,16 @@ Strategy and Bridge pattern
 
 **Readings**: 
 
+# 14th Session
+
+**Date**: 19/12/2021
+
+**Agenda**: Hydra framework
+
+**Speaker(s)**: Mohammad Saber Pourhydari
+
+**Readings**: [hydra-documentation](https://hydra.cc/docs/intro/)
+
 # Continue the Design Patterns series
 
 **Data**: TBA
