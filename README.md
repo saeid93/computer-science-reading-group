@@ -153,8 +153,6 @@ Strategy and Bridge pattern
 
 **Readings**: 
 
-# Continue the Design Patterns series
-
 # 13th Session
 
 **Date**: 28/11/2021
