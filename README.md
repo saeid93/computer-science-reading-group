@@ -127,6 +127,8 @@ Strategy and Bridge pattern
 
 **Agenda**: Docker containers
 
+**Speaker(s)**: Danial Bidekani
+
 **Readings**: [Docker documentation](https://docs.docker.com/)
 
 # 11th Session
@@ -135,8 +137,19 @@ Strategy and Bridge pattern
 
 **Agenda**: Bert model
 
+**Speaker(s)**: Mahsa Seifikar
+
 **Readings**: [Bert model paper](https://arxiv.org/abs/1810.04805)
 
+# 12th Session
+
+**Date**: 21/11/2021
+
+**Agenda**: Computational Social Science Intro
+
+**Speaker(s)**: Vahid Ghafouri
+
+**Readings**: 
 
 # Continue the Design Patterns series
 
