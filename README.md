@@ -103,6 +103,10 @@ Strategy and Bridge pattern
 
 **Readings**: 4th and 5th sesssion
 
+**session resources**:
+
+[link to recordings](https://drive.google.com/file/d/1qdvCGL1xifEA5cLiNwlUPgsbIHuVclY4/view?usp=sharing)
+
 # 7th Session
 
 **Date**: 26/09/2021
