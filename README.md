@@ -115,7 +115,12 @@ Strategy and Bridge pattern
 
 **Speaker(s)**: Amir Khordadi
 
-**Readings**: [graalvm documentation](https://www.graalvm.org/)
+**Readings**: [Top 10 Things To Do With GraalVM
+](https://medium.com/graalvm/graalvm-ten-things-12d9111f307d) and [graalvm documentation](https://www.graalvm.org/)
+
+**session resources**:
+
+[link to recordings](https://drive.google.com/file/d/1FgvkdYODSmcWqGwlpyGcFdVDc1wpsVUG/view?usp=sharing)
 
 # 9th Session
 
