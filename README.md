@@ -186,4 +186,22 @@ Strategy and Bridge pattern
 
 **Data**: TBA
 
+# 15th Session
 
+**Date**: TBA
+
+**Agenda**: Introduction to Rust
+
+**Speaker(s)**: Aliakbar Saleh
+
+**Data**: TBA
+
+# 16 th Session
+
+**Date**: TBA
+
+**Agenda**: Continue the design patterns series
+
+**Speaker(s)**: TBA
+
+**Data**: TBA
