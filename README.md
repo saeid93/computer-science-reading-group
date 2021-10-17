@@ -122,7 +122,7 @@ Strategy and Bridge pattern
 
 [link to recordings](https://drive.google.com/file/d/1FgvkdYODSmcWqGwlpyGcFdVDc1wpsVUG/view?usp=sharing)
 
-# 9th Session
+# 8th Session
 
 **Date**: 10/10/2021
 
