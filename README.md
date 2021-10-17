@@ -130,7 +130,13 @@ Strategy and Bridge pattern
 
 **Speaker(s)**: Jafaar Akhondali
 
-**Readings**: [link to the accepted commit](https://lnkd.in/eVpAEwBS)
+**Readings**:
+
+[link to the accepted commit](https://lnkd.in/eVpAEwBS)
+
+[link to the slides](https://lnkd.in/eVpAEwBS)
+
+[link to recordings](https://drive.google.com/file/d/1h-jFARNJAO1ZJ_rdju0TSeNm8jdhSlsD/view?usp=sharing)
 
 # 10th Session
 
