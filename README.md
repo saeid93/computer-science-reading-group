@@ -134,7 +134,7 @@ Strategy and Bridge pattern
 
 [link to the accepted commit](https://lnkd.in/eVpAEwBS)
 
-[link to the slides](https://lnkd.in/eVpAEwBS)
+[link to the slides](kernel.pdf)
 
 [link to recordings](https://drive.google.com/file/d/1h-jFARNJAO1ZJ_rdju0TSeNm8jdhSlsD/view?usp=sharing)
 
