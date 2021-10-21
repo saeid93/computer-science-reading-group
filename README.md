@@ -1,7 +1,6 @@
 This repo contains information about a series of sessions about broad topics in computer science
 Sessoins are in Farsi/Persian\
-Telegram group link:\
-https://t.me/joinchat/VbMKexalSQ85OTZk
+[Telegram group link](https://t.me/joinchat/VbMKexalSQ85OTZk)
 
 # Proposed Topics
 
