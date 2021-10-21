@@ -1,6 +1,7 @@
 This repo contains information about a series of sessions about broad topics in computer science
 Sessoins are in Farsi/Persian\
-Interested in joining? send me an email s.ghafouri@qmul.ac.uk
+Telegram group link:\
+https://t.me/joinchat/VbMKexalSQ85OTZk
 
 # Proposed Topics
 
@@ -138,29 +139,10 @@ Strategy and Bridge pattern
 
 [link to recordings](https://drive.google.com/file/d/1h-jFARNJAO1ZJ_rdju0TSeNm8jdhSlsD/view?usp=sharing)
 
-# 10th Session
 
-**Date**: 24/10/2021
-
-**Agenda**: Docker containers
-
-**Speaker(s)**: Danial Bidekani
-
-**Readings**: [Docker documentation](https://docs.docker.com/)
-
-# 11th Session
+# 9th Session
 
 **Date**: 7/11/2021
-
-**Agenda**: Bert model
-
-**Speaker(s)**: Mahsa Seifikar
-
-**Readings**: [Bert model paper](https://arxiv.org/abs/1810.04805)
-
-# 12th Session
-
-**Date**: 21/11/2021
 
 **Agenda**: Computational Social Science Intro
 
@@ -168,7 +150,7 @@ Strategy and Bridge pattern
 
 **Readings**: 
 
-# 13th Session
+# 10th Session
 
 **Date**: 5/12/2021
 
@@ -178,7 +160,7 @@ Strategy and Bridge pattern
 
 **Readings**: 
 
-# 14th Session
+# 11th Session
 
 **Date**: 19/12/2021
 
@@ -192,7 +174,7 @@ Strategy and Bridge pattern
 
 **Data**: TBA
 
-# 15th Session
+# 12th Session
 
 **Date**: TBA
 
@@ -202,7 +184,7 @@ Strategy and Bridge pattern
 
 **Data**: TBA
 
-# 16 th Session
+# 13th Session
 
 **Date**: TBA
 
@@ -211,3 +193,23 @@ Strategy and Bridge pattern
 **Speaker(s)**: TBA
 
 **Data**: TBA
+
+# 14th Session
+
+**Date**: 24/10/2021
+
+**Agenda**: Docker containers
+
+**Speaker(s)**: Danial Bidekani
+
+**Readings**: [Docker documentation](https://docs.docker.com/)
+
+# 15th Session
+
+**Date**: 7/11/2021
+
+**Agenda**: Bert model
+
+**Speaker(s)**: Mahsa Seifikar
+
+**Readings**: [Bert model paper](https://arxiv.org/abs/1810.04805)
