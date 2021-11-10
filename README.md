@@ -147,7 +147,10 @@ Strategy and Bridge pattern
 
 **Speaker(s)**: Vahid Ghafouri
 
-**Readings**: 
+**Readings**:
+[link to the slides](computational-social-science-intro.pptx)
+
+[link to recordings](https://drive.google.com/file/d/1ldepMGnpcDCoZW0MNEWNssyZdMcChXCR/view?usp=sharing)
 
 # 10th Session
 
